@@ -1,0 +1,19 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³‘Êÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å·ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÕµ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‰¨¥ºøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¤Õà¤ùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(íğ¨ì
+[
+java:S1612)"@Replace this lambda with method reference 'String::toUpperCase'.(èŒ˜Ûùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(èŒ˜Ûùÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¾Ïó…úÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(±Åşò
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ŒÓ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¥öˆ¶
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ó°§ãûÿÿÿÿ
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ş¨õàÿÿÿÿÿ8µÖÑ/
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8 »¦ÖÑ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áºÍ
